@@ -1,0 +1,12 @@
+#items {
+  display: none;
+}
+
+/* #groceries {
+  display: none;
+} */
+
+button {
+  background-image: image url(../img/button.png);
+  background-repeat: no-repeat;
+}
